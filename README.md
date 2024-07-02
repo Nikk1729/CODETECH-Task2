@@ -1,3 +1,12 @@
+**Name:** NIKITA GUDE                                                                                                                                                          
+**Company:** CODETECH IT SOLUTIONS                                                                                                                                                  
+**ID:** CT4ES2571                                                                                                                                                               
+**Domain:** EMBEDDED SYSTEMS                                                                                                                                                  
+ **Duration:** JUNE 20th,2024 to JULY 20th, 2024                                                                                                                                 
+ **Mentor:** MUHAMMED MUZAMMIL AHMED
+
+
+## OVERVIEW OF THE PROJECT
 ### Temperature and Humidity Monitoring with DHT11 Sensor and Arduino
 ### 1. Introduction
 The purpose of this project is to design and implement a simple system to monitor temperature and humidity using the DHT11 sensor and an Arduino board. The readings are displayed on the serial monitor. This project is ideal for beginners in electronics and programming, providing a hands-on experience with sensors, Arduino programming, and data monitoring.
