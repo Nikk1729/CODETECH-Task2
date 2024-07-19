@@ -135,11 +135,8 @@ The system continuously reads the temperature and humidity from the DHT11 sensor
 
 #### Sample Output
 
-DHT11 Temperature and Humidity Monitoring
+![image](https://github.com/user-attachments/assets/6dd46c88-2d29-432e-8b03-b09ff199893b)
 
-Humidity: 45.00 %	Temperature: 23.00 °C	Heat Index: 23.57 °C
-
-Humidity: 46.00 %	Temperature: 23.10 °C	Heat Index: 23.67 °C
 
 ### 8. Conclusion
 This project successfully demonstrates the use of a DHT11 sensor with an Arduino to monitor temperature and humidity. The data is effectively displayed on the serial monitor, providing real-time insights into environmental conditions. This foundational project can be extended to include additional features such as data logging, graphical display, or wireless transmission of data.
