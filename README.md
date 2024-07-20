@@ -1,5 +1,5 @@
 **Name:** NIKITA GUDE                                                                                                                                                          
-**Company:** CODETECH IT SOLUTIONS                                                                                                                                                  
+**Company:** CODTECH IT SOLUTIONS                                                                                                                                                  
 **ID:** CT4ES2571                                                                                                                                                               
 **Domain:** EMBEDDED SYSTEMS                                                                                                                                                  
  **Duration:** JUNE 20th,2024 to JULY 20th, 2024                                                                                                                                 
